@@ -6,3 +6,8 @@ body {
     padding: 0;
 }
 
+.centrado-negrita-cursiva {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
