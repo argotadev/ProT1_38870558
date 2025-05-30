@@ -6,8 +6,17 @@ body {
     padding: 0;
 }
 
+.secciones-parrafos {
+    background-color: #d9eaf7; /* Fondo celeste claro */
+    border: 2px solid #6fa3c2; /* Borde azul */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
 .centrado-negrita-cursiva {
     text-align: center;
     font-weight: bold;
     font-style: italic;
 }
+
